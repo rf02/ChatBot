@@ -3,42 +3,42 @@ Experience a chatbot that can understand the family relationships by what inform
 
 # Statement Prompts
 <li> _____ and _____ are siblings.
-_____ is a brother of _____.
-_____ is a sister of _____.
-_____ is the father of _____.
-_____ is the mother of _____.
-_____ and _____ are the parents of _____.
-_____ is a grandmother of _____.
-_____ is a grandfather of _____.
-_____ is a child of _____.
-_____, _____ and _____ are children of _____.
-_____ is a daughter of _____.
-_____ is a son of _____.
-_____ is an uncle of _____.
-_____ is an aunt of _____.
+<li> _____ is a brother of _____.
+<li> _____ is a sister of _____.
+<li> _____ is the father of _____.
+<li> _____ is the mother of _____.
+<li> _____ and _____ are the parents of _____.
+<li> _____ is a grandmother of _____.
+<li> _____ is a grandfather of _____.
+<li> _____ is a child of _____.
+<li> _____, _____ and _____ are children of _____.
+<li> _____ is a daughter of _____.
+<li> _____ is a son of _____.
+<li> _____ is an uncle of _____.
+<li> _____ is an aunt of _____.
 
 # Question Prompts
-Are _____ and _____ siblings?
-Is _____ a sister of _____?
-Is _____ a brother of _____?
-Is _____ the mother of _____?
-Is _____ the father of _____?
-Are _____ and _____ the parents of _____?
-Is _____ a grandmother of _____?
-Is _____ a daughter of _____?
-Is _____ a son of _____?
-Is _____ a child of _____?
-Are _____, _____ and _____ children of _____?
-Is _____ an uncle of _____?
-Who are the siblings of _____?
-Who are the sisters of _____?
-Who are the brothers of _____?
-Who is the mother of _____?
-Who is the father of _____?
-Who are the parents of _____?
-Is _____ a grandfather of _____?
-Who are the daughters of _____?
-Who are the sons of _____?
-Who are the children of _____?
-Is _____ an aunt of _____?
-Are _____ and _____ relatives?
+<li> Are _____ and _____ siblings?
+<li> Is _____ a sister of _____?
+<li> Is _____ a brother of _____?
+<li> Is _____ the mother of _____?
+<li> Is _____ the father of _____?
+<li> Are _____ and _____ the parents of _____?
+<li> Is _____ a grandmother of _____?
+<li> Is _____ a daughter of _____?
+<li> Is _____ a son of _____?
+<li> Is _____ a child of _____?
+<li> Are _____, _____ and _____ children of _____?
+<li> Is _____ an uncle of _____?
+<li> Who are the siblings of _____?
+<li> Who are the sisters of _____?
+<li> Who are the brothers of _____?
+<li> Who is the mother of _____?
+<li> Who is the father of _____?
+<li> Who are the parents of _____?
+<li> Is _____ a grandfather of _____?
+<li> Who are the daughters of _____?
+<li> Who are the sons of _____?
+<li> Who are the children of _____?
+<li> Is _____ an aunt of _____?
+<li> Are _____ and _____ relatives?
