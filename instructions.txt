@@ -1,0 +1,13 @@
+FAMILY CHATBOT
+
+INSTRUCTIONS:
+
+1. Make sure all related files (.pl and .py file) are in the same path/folder.
+2. Run the python file
+3. Upon running the file, you are greeted and is asked to input a statement or question
+4. A statement must end with a period (.) and a question must end with a question mark (?).
+5. Statements and questions patterns are limited, only input the ones specified in the project specifications.
+6. After inputting a statement or question, the chatbot replies accordingly and you can continue talking to it as long as no error occurs.
+7. To exit the program type 'exit'.
+
+=END=
