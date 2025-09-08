@@ -1,6 +1,11 @@
 # ChatBot
 Experience a chatbot that can understand the family relationships by what information the user provides. This uses limited prompts. If prompts are not on the list, the chatbot will not understand your prompt. Note that this chatbot is case sensitive.
 
+Developers:
+<li> Luis Roa
+<li> Raine Siongco
+<li> Rulet Fulo
+
 # Statement Prompts
 <li> _____ and _____ are siblings.
 <li> _____ is a brother of _____.
